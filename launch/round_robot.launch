@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<launch>
+	<param name="round_robot" command="'$(find arn_hw_1)/urdf/model.urdf'"/>
+</launch>
